@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/hridayesh012" target="blank"><img src="https://img.shields.io/twitter/follow/hridayesh012?logo=twitter&style=for-the-badge" alt="hridayesh012" /></a> </p>
 
-- 🔭 I’m currently working on **Social media webapp project**
 
 - 🌱 I’m currently learning **React**
 
